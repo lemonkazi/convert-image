@@ -1,0 +1,154 @@
+{
+  "colors": [
+    {
+      "pantone": "PANTONE 17-5641",
+      "name": "Emerald",
+      "hex": "#009473"
+    },
+    {
+      "pantone": "PANTONE 18-3838",
+      "name": "Ultra Violet",
+      "hex": "#5F4B8B"
+    },
+    {
+      "pantone": "PANTONE 16-1546",
+      "name": "Living Coral",
+      "hex": "#FF6F61"
+    },
+    {
+      "pantone": "PANTONE 19-4052",
+      "name": "Classic Blue",
+      "hex": "#0F4C81"
+    },
+    {
+      "pantone": "PANTONE 13-0647",
+      "name": "Illuminating",
+      "hex": "#F5DF4D"
+    },
+    {
+      "pantone": "PANTONE 17-5104",
+      "name": "Ultimate Gray",
+      "hex": "#939597"
+    },
+    {
+      "pantone": "PANTONE 15-0343",
+      "name": "Greenery",
+      "hex": "#88B04B"
+    },
+    {
+      "pantone": "PANTONE 18-3224",
+      "name": "Radiant Orchid",
+      "hex": "#B163A3"
+    },
+    {
+      "pantone": "PANTONE 19-1862",
+      "name": "True Red",
+      "hex": "#BF1932"
+    },
+    {
+      "pantone": "PANTONE 14-5714",
+      "name": "Aqua Sky",
+      "hex": "#7BC4C4"
+    },
+    {
+      "pantone": "PANTONE 16-1448",
+      "name": "Tangerine Tango",
+      "hex": "#DD4124"
+    },
+    {
+      "pantone": "PANTONE 18-2120",
+      "name": "Honeysuckle",
+      "hex": "#D94F70"
+    },
+    {
+      "pantone": "PANTONE 15-5519",
+      "name": "Turquoise",
+      "hex": "#45B5AA"
+    },
+    {
+      "pantone": "PANTONE 14-0848",
+      "name": "Mimosa",
+      "hex": "#F0C05A"
+    },
+    {
+      "pantone": "PANTONE 18-3943",
+      "name": "Blue Iris",
+      "hex": "#5A5B9F"
+    },
+    {
+      "pantone": "PANTONE 13-1106",
+      "name": "Rose Quartz",
+      "hex": "#F7CAC9"
+    },
+    {
+      "pantone": "PANTONE 15-3919",
+      "name": "Serenity",
+      "hex": "#92A8D1"
+    },
+    {
+      "pantone": "PANTONE 18-1248",
+      "name": "Marsala",
+      "hex": "#955251"
+    },
+    {
+      "pantone": "PANTONE 17-2031",
+      "name": "Fuchsia Rose",
+      "hex": "#C74375"
+    },
+    {
+      "pantone": "PANTONE 18-1663",
+      "name": "Fiery Red",
+      "hex": "#C8102E"
+    },
+    {
+      "pantone": "PANTONE 19-2428",
+      "name": "Boysenberry",
+      "hex": "#4C3C4C"
+    },
+    {
+      "pantone": "PANTONE 16-1511",
+      "name": "Cameo Pink",
+      "hex": "#EFBBCC"
+    },
+    {
+      "pantone": "PANTONE 17-1929",
+      "name": "Azalea Pink",
+      "hex": "#D81B60"
+    },
+    {
+      "pantone": "PANTONE 18-3943",
+      "name": "Strong Blue",
+      "hex": "#003DA5"
+    },
+    {
+      "pantone": "PANTONE 16-4725",
+      "name": "Scuba Blue",
+      "hex": "#00A3E0"
+    },
+    {
+      "pantone": "PANTONE 18-3224",
+      "name": "Grape Compote",
+      "hex": "#6A397B"
+    },
+    {
+      "pantone": "PANTONE 15-3919",
+      "name": "Powder Blue",
+      "hex": "#AEC6CF"
+    },
+    {
+      "pantone": "PANTONE 19-4045",
+      "name": "Snorkel Blue",
+      "hex": "#034F84"
+    },
+    {
+      "pantone": "PANTONE 16-1364",
+      "name": "Orange Peel",
+      "hex": "#FF6F00"
+    },
+    {
+      "pantone": "PANTONE 14-4102",
+      "name": "Soft Gray",
+      "hex": "#D3D3D3"
+    }
+  ]
+}
